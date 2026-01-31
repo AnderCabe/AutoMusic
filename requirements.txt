@@ -1,0 +1,4 @@
+﻿yt-dlp>=2024.11.11
+pygetwindow>=0.0.9
+psutil>=5.9.0
+pywin32>=306
